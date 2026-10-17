@@ -1,0 +1,25 @@
+paid_area,paid_subarea,band,rate_per_hour
+Columbia City,None,Afternoon,6.00
+Columbia City,None,Evening,6.00
+Columbia City,None,Morning,1.00
+Commercial Core,Financial,Afternoon,1.00
+Commercial Core,Financial,Evening,1.00
+Commercial Core,Financial,Morning,1.00
+Commercial Core,Retail,Afternoon,4.50
+Commercial Core,Retail,Evening,1.50
+Commercial Core,Retail,Morning,2.00
+Commercial Core,Waterfront,Afternoon,6.50
+Commercial Core,Waterfront,Evening,5.00
+Commercial Core,Waterfront,Morning,1.00
+Fremont,None,Afternoon,6.00
+Fremont,None,Evening,6.50
+Fremont,None,Morning,1.00
+South Lake Union,North,Afternoon,1.00
+South Lake Union,North,Evening,0.00
+South Lake Union,North,Morning,1.00
+South Lake Union,South,Afternoon,4.50
+South Lake Union,South,Evening,0.00
+South Lake Union,South,Morning,1.00
+Uptown,None,Afternoon,3.00
+Uptown,None,Evening,2.00
+Uptown,None,Morning,1.00
