@@ -1,0 +1,15 @@
+# Raw downloads (318 MB and 260 MB; over GitHub's 100 MB file limit).
+# Reproduce them with scripts/download_seattle_parking.py
+data/raw/*
+!data/raw/.gitkeep
+seattle_week*.csv
+
+# Office temp and OS files
+~$*
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
